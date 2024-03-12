@@ -1,4 +1,5 @@
 # AndoridDevTools
 * Let's all go through this repo [here](https://github.com/ASHWIN990/ADB-Toolkit/blob/master/README.md)
  Just to understand a few basics and then we start..our goal is to create android shell tools that enable dev on android devices and then to continue and create virtual machines to run ios on to of android.
-
+* The project is going to include writing low level C, C++, x86asm, Kotlin/Java some times for native android, some swift for ios, dart for apk dev in flutter, shell scripting usually in bash or Perl, Python for automation, and Rust sharedlibraries compiled for ARM achitecture, where necessary. So Developers, lets get ready to write code.
+* We are going to make our own personal research to understand low level working of android, safe low level and high level programming, best UI Design, Audio, and soundcards in phones(a start check out on [oboe project for android](https://github.com/google/oboe)). Undestand android memory management and other more...so i'm expectant to learn and contribute.  
